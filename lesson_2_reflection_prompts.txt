@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initialized empty Git repository in /Users/Paul/version-control/reflections/.git/
+
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+No commits are done when you first initialize a repository. Typing git status will show you any files that are untracked
