@@ -34,7 +34,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would use google drive. It's definitely easier to use Git/GitHub to collaborate for coding projects. I think using google drive is easier to learn. Git/Github have a steeper learning curve, but it is more powerful and more precise when it comes collaborating on coding projects.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
